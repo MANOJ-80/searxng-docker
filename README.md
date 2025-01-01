@@ -1,4 +1,4 @@
-# searxng-docker
+# searxng-docker  
 
 Create a new SearXNG instance in five minutes using Docker
 
